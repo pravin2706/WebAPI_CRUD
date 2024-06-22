@@ -19,7 +19,7 @@ This repository contains a sample CRUD (Create, Read, Update, Delete) Web API ap
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   https://github.com/pravin2706/WebAPI_CRUD.git
 Navigate to the project directory:
 
 bash
